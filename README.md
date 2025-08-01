@@ -26,6 +26,8 @@ A simple airline and airport database project using MySQL, designed to simulate 
 <img width="1400" height="812" alt="image" src="https://github.com/user-attachments/assets/a4418f11-80e3-46c9-ae1e-0aad4049e284" />
 <img width="1398" height="813" alt="image" src="https://github.com/user-attachments/assets/2e716831-fd56-4da0-9f95-c12aa8510092" />
 
+## Data
+<img width="657" height="716" alt="image" src="https://github.com/user-attachments/assets/8201bd87-b58f-4146-b8e3-8a02ab3a87fb" />
 
 ## 👤 Author
 
